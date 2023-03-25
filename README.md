@@ -19,3 +19,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
+- [leptos-tea](https://github.com/jquesada2016/leptos-tea) A library for state management using The Elm Architecture (TEA) in Leptos
