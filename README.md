@@ -7,8 +7,9 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Leptos Book](https://github.com/leptos-rs/leptos/tree/main/docs/book) (WIP)
 - [Discord Community](https://discord.gg/YdRAhS7eQB)
 
-## Build Tools
+## Tools
 - [cargo-leptos](https://github.com/leptos-rs/cargo-leptos) coordinates rebuilding the server and client side of your app
+- [leptosfmt](https://github.com/bram209/leptosfmt) provides formatting for the `view` macro
 
 ## Styling and Design
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS extracted from Leptos components
