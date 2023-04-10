@@ -21,3 +21,6 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
 - [leptos-tea](https://github.com/jquesada2016/leptos-tea) A library for state management using The Elm Architecture (TEA) in Leptos
+
+## Blogs
+- [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
