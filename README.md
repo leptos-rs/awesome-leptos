@@ -15,6 +15,10 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS extracted from Leptos components
 - [Styled](https://github.com/eboody/styled) Scoped CSS styles
 
+## Quality of Life 
+- [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
+- [`wasm-bindgen-struct`](https://crates.io/crates/wasm-bindgen-struct) A crate making it easier to declare `wasm_bindgen` types and implement getters/setter as if they were normal Rust structs.
+
 ## Libraries
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for Leptos
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
