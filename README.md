@@ -26,6 +26,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
 - [leptos-tea](https://github.com/jquesada2016/leptos-tea) A library for state management using The Elm Architecture (TEA) in Leptos
 - [leptos-leaflet](https://github.com/headless-studio/leptos-leaflet) Leaflet components for Leptos
+- [Papelito](https://github.com/msmaiaa/papelito) A simple WYSIWYG editor for leptos.
 
 ## Blogs
 - [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
