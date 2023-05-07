@@ -28,5 +28,6 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-leaflet](https://github.com/headless-studio/leptos-leaflet) Leaflet components for Leptos
 - [Papelito](https://github.com/msmaiaa/papelito) A simple WYSIWYG editor for leptos.
 
-## Blogs
+## Blogs / Websites
 - [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
+- [viz.rs](https://viz.rs/) The documentation site for Viz web framework
