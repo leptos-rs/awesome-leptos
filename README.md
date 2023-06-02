@@ -20,6 +20,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [`wasm-bindgen-struct`](https://crates.io/crates/wasm-bindgen-struct) A crate making it easier to declare `wasm_bindgen` types and implement getters/setter as if they were normal Rust structs.
 
 ## Libraries
+- [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for Leptos
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
