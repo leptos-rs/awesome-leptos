@@ -33,3 +33,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 ## Blogs / Websites
 - [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
+- [khuedoan.com](https://khuedoan.com) Markdown blog built with Leptos and Axum, styled with Tailwind CSS ([source](https://github.com/khuedoan/blog))
