@@ -31,6 +31,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-server-signal](https://github.com/tqwewe/leptos_server_signal) Leptos signals kept in sync with the server through websockets.
 
 ## Blogs / Websites
+- [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
 - [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
 - [khuedoan.com](https://khuedoan.com) Markdown blog built with Leptos and Axum, styled with Tailwind CSS ([source](https://github.com/khuedoan/blog))
