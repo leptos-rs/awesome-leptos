@@ -15,14 +15,15 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS extracted from Leptos components
 - [Styled](https://github.com/eboody/styled) Scoped CSS styles
 
-## Quality of Life 
+## Quality of Life
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
 - [`wasm-bindgen-struct`](https://crates.io/crates/wasm-bindgen-struct) A crate making it easier to declare `wasm_bindgen` types and implement getters/setter as if they were normal Rust structs.
 
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for Leptos
-- [leptos_image](https://github.com/nicoburniske/leptos_image) Optimize static images with leptos (similar to NextJS `<Image/>`). It converts images to .webp format, and auto-generate blur previews included in your initial SSR render.
+- [leptos_image](https://github.com/nicoburniske/leptos_image) Optimize static images with leptos (similar to NextJS `<Image/>`). It converts images to .webp format, and generates Low Quality Image Placeholders (LQIP) included in your initial SSR render.
+- [leptos_query](https://github.com/nicoburniske/leptos_query) Asynchronous cache for data fetching and state management
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
@@ -36,4 +37,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
 - [khuedoan.com](https://khuedoan.com) Markdown blog built with Leptos and Axum, styled with Tailwind CSS ([source](https://github.com/khuedoan/blog))
-- [nicoburniske.com](https://nicoburniske.com) Blog + photo gallery (with`.webp` image optimizer). Styled with Tailwind CSS.
+- [nicoburniske.com](https://nicoburniske.com) Blog + Photo gallery (using leptos_image and leptos_query). Styled with Tailwind CSS.
