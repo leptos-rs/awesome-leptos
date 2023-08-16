@@ -11,6 +11,18 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [cargo-leptos](https://github.com/leptos-rs/cargo-leptos) coordinates rebuilding the server and client side of your app
 - [leptosfmt](https://github.com/bram209/leptosfmt) provides formatting for the `view` macro
 
+## Starter Templates
+
+### Official
+
+ - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
+ - [leptos-rs/start-axum](https://github.com/leptos-rs/start-axum) - Starter template for use with the Leptos web framework and Axum.
+ - [leptos-rs/start-axum-workspace](https://github.com/leptos-rs/start-axum-workspace) - Same as above but using Cargo workspace to split crates
+
+### Unofficial
+
+- [leptos-fullstack](https://github.com/srid/leptos-fullstack) - A [Nix](https://nixos.org/) template for full-stack web apps in Rust using Leptos + Tailwind
+
 ## Styling and Design
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS extracted from Leptos components
 - [Styled](https://github.com/eboody/styled) Scoped CSS styles
