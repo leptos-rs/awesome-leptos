@@ -32,11 +32,14 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
 - [`wasm-bindgen-struct`](https://crates.io/crates/wasm-bindgen-struct) A crate making it easier to declare `wasm_bindgen` types and implement getters/setter as if they were normal Rust structs.
 
+## Components
+- [Leptonic](https://leptonic.dev/) A rich component library for Leptos. 
+
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
+- [leptos_query](https://github.com/nicoburniske/leptos_query) Asynchronous cache for data fetching and state management
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for Leptos
 - [leptos_image](https://github.com/nicoburniske/leptos_image) Optimize static images with leptos (similar to NextJS `<Image/>`). It converts images to .webp format, and generates Low Quality Image Placeholders (LQIP) included in your initial SSR render.
-- [leptos_query](https://github.com/nicoburniske/leptos_query) Asynchronous cache for data fetching and state management
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
