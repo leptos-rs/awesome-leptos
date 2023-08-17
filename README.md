@@ -15,7 +15,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ### Official
 
- - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework.
+ - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework and Actix.
  - [leptos-rs/start-axum](https://github.com/leptos-rs/start-axum) - Starter template for use with the Leptos web framework and Axum.
  - [leptos-rs/start-axum-workspace](https://github.com/leptos-rs/start-axum-workspace) - Same as above but using Cargo workspace to split crates
 
