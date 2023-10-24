@@ -52,8 +52,8 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
-- [Itehax Blog](https://itehax.com) Markdown blog written using Leptos(with server side rendering) and styled using Preline (component library for tailwindcss) ([source](https://github.com/itehax/rust-blog))
-- [Personal blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
+- [Itehax's blog](https://itehax.com) Markdown blog written using Leptos(with server side rendering) and styled using Preline (component library for tailwindcss) ([source](https://github.com/itehax/rust-blog))
+- [LeVuMinhHuy's blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
 - [khuedoan.com](https://khuedoan.com) Markdown blog built with Leptos and Axum, styled with Tailwind CSS ([source](https://github.com/khuedoan/blog))
 - [nicoburniske.com](https://nicoburniske.com) Blog + Photo gallery (using leptos_image and leptos_query). Styled with Tailwind CSS.
