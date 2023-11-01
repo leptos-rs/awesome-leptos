@@ -50,6 +50,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-server-signal](https://github.com/tqwewe/leptos_server_signal) Leptos signals kept in sync with the server through websockets.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals synced through Server-Sent-Events (SSE).
 - [leptos_i18n](https://github.com/Baptistemontan/leptos_i18n) A translation library for Leptos.
+- [leptos_oidc](https://gitlab.com/kerkmann/leptos_oidc) A Leptos utility library for simplified OpenID Connect (OIDC) authentication integration.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
