@@ -35,6 +35,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ## Components
 - [Leptonic](https://leptonic.dev/) A rich component library for Leptos. 
+- [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component library.
 
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
