@@ -62,3 +62,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
 - [khuedoan.com](https://khuedoan.com) Markdown blog built with Leptos and Axum, styled with Tailwind CSS ([source](https://github.com/khuedoan/blog))
 - [nicoburniske.com](https://nicoburniske.com) Blog + Photo gallery (using leptos_image and leptos_query). Styled with Tailwind CSS.
+- [quanticbox.app](https://quanticbox.app) Basic financial dashboard built with Leptos, Axum, and Diesel. Styled with Tailwind CSS and DaisyUI.
