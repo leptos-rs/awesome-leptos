@@ -33,6 +33,9 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
 - [`wasm-bindgen-struct`](https://crates.io/crates/wasm-bindgen-struct) A crate making it easier to declare `wasm_bindgen` types and implement getters/setter as if they were normal Rust structs.
 
+## Alternate Macros
+- [`leptos-mview`](https://github.com/blorbb/leptos-mview) A concise `view!` macro inspired by [maud](https://maud.lambda.xyz/).
+
 ## Components
 - [Leptonic](https://leptonic.dev/) A rich component library for Leptos. 
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component library.
