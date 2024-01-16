@@ -29,6 +29,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Styled](https://github.com/eboody/styled) Scoped CSS styles
 - [turf](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules
 - [phosphor-leptos](https://github.com/SorenHolstHansen/phosphor-leptos) The [phosphor icon family](https://phosphoricons.com/)
+- [Stylance](https://github.com/basro/stylance-rs) Scoped CSS modules.
 
 ## Quality of Life
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
