@@ -61,6 +61,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos_oidc](https://gitlab.com/kerkmann/leptos_oidc) A Leptos utility library for simplified OpenID Connect (OIDC) authentication integration.
 - [leptos_meilisearch](https://gitlab.com/kerkmann/leptos_meilisearch) A Leptos integration for [meilisearch](https://www.meilisearch.com/), wrapping them in a `Resource` and helps with useful helper functions und utils.
 - [leptos-captcha](https://github.com/sebadob/leptos-captcha) Simple, fully self-hosted Captcha / PoW component for Leptos without any user interaction.
+- [leptos-obfuscate](https://github.com/sebadob/leptos-obfuscate) Tiny crate with a Leptos component for obfuscating email addresses for bot and spam protection
 - [cinnog](https://github.com/NiklasEi/cinnog) Experimental static site generator using Bevy ECS as a data layer
 
 ## Blogs / Websites
