@@ -57,6 +57,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-server-signal](https://github.com/tqwewe/leptos_server_signal) Leptos signals kept in sync with the server through websockets.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals synced through Server-Sent-Events (SSE).
 - [leptos_i18n](https://github.com/Baptistemontan/leptos_i18n) A translation library for Leptos.
+- [leptos-fluent](https://github.com/mondeja/leptos-fluent) Internationalization framework for Leptos using fluent-templates.
 - [leptos_darkmode](https://gitlab.com/kerkmann/leptos_darkmode) A Darkmode Helper which adds the `dark` class for Tailwind CSS, based on the local storage or media profile.
 - [leptos_oidc](https://gitlab.com/kerkmann/leptos_oidc) A Leptos utility library for simplified OpenID Connect (OIDC) authentication integration.
 - [leptos_meilisearch](https://gitlab.com/kerkmann/leptos_meilisearch) A Leptos integration for [meilisearch](https://www.meilisearch.com/), wrapping them in a `Resource` and helps with useful helper functions und utils.
