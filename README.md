@@ -15,10 +15,16 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ### Official
 
+- [leptos-rs/start-trunk](https://github.com/leptos-rs/start-trunk) - Starter template for Client-Side Rendered Leptos web framework apps using the [Trunk](https://trunkrs.dev/) build tool. Server agnostic.
+
  - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework and Actix.
+
  - [leptos-rs/start-axum](https://github.com/leptos-rs/start-axum) - Starter template for use with the Leptos web framework and Axum.
  - [leptos-rs/start-axum-workspace](https://github.com/leptos-rs/start-axum-workspace) - Same as above but using Cargo workspace to split crates
- - [leptos-rs/start-aws](https://github.com/leptos-rs/start-aws) -  Starter template for use with Leptos, Axum, and Amazon Web Services. 
+
+ - [leptos-rs/start-aws](https://github.com/leptos-rs/start-aws) -  Starter template for use with Leptos, Axum, and Amazon Web Services.
+
+ - [leptos-rs/start-spin](https://github.com/leptos-rs/start-spin) - Starter template for use with the Leptos web framework and the [Spin](https://www.fermyon.com/spin) serverless [WASI](https://wasi.dev/) platform.
 
 ### Unofficial
 
@@ -39,7 +45,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [`leptos-mview`](https://github.com/blorbb/leptos-mview) A concise `view!` macro inspired by [maud](https://maud.lambda.xyz/).
 
 ## Components
-- [Leptonic](https://leptonic.dev/) A rich component library for Leptos. 
+- [Leptonic](https://leptonic.dev/) A rich component library for Leptos.
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component library.
 - [leptos_animated_for](https://github.com/brofrain/leptos-animated-for) A [For](https://docs.rs/leptos/latest/leptos/fn.For.html)-like component designed for animating elements of a list.
 
