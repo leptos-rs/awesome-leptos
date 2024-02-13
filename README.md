@@ -48,6 +48,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [Leptonic](https://leptonic.dev/) A rich component library for Leptos.
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component library.
 - [leptos_animated_for](https://github.com/brofrain/leptos-animated-for) A [For](https://docs.rs/leptos/latest/leptos/fn.For.html)-like component designed for animating elements of a list.
+- [leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) Easily create powerful tables from structs.
 
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
