@@ -84,3 +84,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [nicoburniske.com](https://nicoburniske.com) Blog + Photo gallery (using leptos_image and leptos_query). Styled with Tailwind CSS.
 - [quanticbox.app](https://quanticbox.app) Basic financial dashboard built with Leptos, Axum, and Diesel. Styled with Tailwind CSS and DaisyUI.
 - [rustytube.rs](https://rustytube.rs) Youtube client for desktop & web. Built with Leptos and Tauri; designed with Tailwind and DaisyUI. ([repo & binaries](https://github.com/opensourcecheemsburgers/RustyTube))
+-  [jlewis.sh](https://jlewis.sh/) Personal blog
