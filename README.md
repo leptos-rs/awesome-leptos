@@ -72,6 +72,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-obfuscate](https://github.com/sebadob/leptos-obfuscate) Tiny crate with a Leptos component for obfuscating email addresses for bot and spam protection
 - [cinnog](https://github.com/NiklasEi/cinnog) Experimental static site generator using Bevy ECS as a data layer
 - [leptoaster](https://github.com/KiaShakiba/leptoaster) A minimal toast library for Leptos.
+- [leptos_toaster](https://github.com/SorenHolstHansen/leptos_toaster) A Toaster component for Leptos heavily inspired by [Sonner](https://github.com/emilkowalski/sonner)
 - [leptos-hotkeys](https://github.com/friendlymatthew/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
 
 ## Blogs / Websites
