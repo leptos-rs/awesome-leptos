@@ -15,10 +15,16 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ### Official
 
+- [leptos-rs/start-trunk](https://github.com/leptos-rs/start-trunk) - Starter template for Client-Side Rendered Leptos web framework apps using the [Trunk](https://trunkrs.dev/) build tool. Server agnostic.
+
  - [leptos-rs/start](https://github.com/leptos-rs/start) - Starter template for use with the Leptos web framework and Actix.
+
  - [leptos-rs/start-axum](https://github.com/leptos-rs/start-axum) - Starter template for use with the Leptos web framework and Axum.
  - [leptos-rs/start-axum-workspace](https://github.com/leptos-rs/start-axum-workspace) - Same as above but using Cargo workspace to split crates
- - [leptos-rs/start-aws](https://github.com/leptos-rs/start-aws) -  Starter template for use with Leptos, Axum, and Amazon Web Services. 
+
+ - [leptos-rs/start-aws](https://github.com/leptos-rs/start-aws) -  Starter template for use with Leptos, Axum, and Amazon Web Services.
+
+ - [leptos-rs/start-spin](https://github.com/leptos-rs/start-spin) - Starter template for use with the Leptos web framework and the [Spin](https://www.fermyon.com/spin) serverless [WASI](https://wasi.dev/) platform.
 
 ### Unofficial
 
@@ -39,9 +45,10 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [`leptos-mview`](https://github.com/blorbb/leptos-mview) A concise `view!` macro inspired by [maud](https://maud.lambda.xyz/).
 
 ## Components
-- [Leptonic](https://leptonic.dev/) A rich component library for Leptos. 
+- [Leptonic](https://leptonic.dev/) A rich component library for Leptos.
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component library.
 - [leptos_animated_for](https://github.com/brofrain/leptos-animated-for) A [For](https://docs.rs/leptos/latest/leptos/fn.For.html)-like component designed for animating elements of a list.
+- [leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table) Easily create powerful tables from structs.
 
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
@@ -57,6 +64,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptos-server-signal](https://github.com/tqwewe/leptos_server_signal) Leptos signals kept in sync with the server through websockets.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals synced through Server-Sent-Events (SSE).
 - [leptos_i18n](https://github.com/Baptistemontan/leptos_i18n) A translation library for Leptos.
+- [leptos-fluent](https://github.com/mondeja/leptos-fluent) Internationalization framework for Leptos using fluent-templates.
 - [leptos_darkmode](https://gitlab.com/kerkmann/leptos_darkmode) A Darkmode Helper which adds the `dark` class for Tailwind CSS, based on the local storage or media profile.
 - [leptos_oidc](https://gitlab.com/kerkmann/leptos_oidc) A Leptos utility library for simplified OpenID Connect (OIDC) authentication integration.
 - [leptos_meilisearch](https://gitlab.com/kerkmann/leptos_meilisearch) A Leptos integration for [meilisearch](https://www.meilisearch.com/), wrapping them in a `Resource` and helps with useful helper functions und utils.
@@ -65,6 +73,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [cinnog](https://github.com/NiklasEi/cinnog) Experimental static site generator using Bevy ECS as a data layer
 - [leptoaster](https://github.com/KiaShakiba/leptoaster) A minimal toast library for Leptos.
 - [leptos_toaster](https://github.com/SorenHolstHansen/leptos_toaster) A Toaster component for Leptos heavily inspired by [Sonner](https://github.com/emilkowalski/sonner)
+- [leptos-hotkeys](https://github.com/friendlymatthew/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
