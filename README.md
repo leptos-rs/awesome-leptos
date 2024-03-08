@@ -36,6 +36,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [turf](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules
 - [phosphor-leptos](https://github.com/SorenHolstHansen/phosphor-leptos) The [phosphor icon family](https://phosphoricons.com/)
 - [Stylance](https://github.com/basro/stylance-rs) Scoped CSS modules.
+- [Tailwind Fuse](https://github.com/gaucho-labs/tailwind-fuse) Fuse Tailwind CSS class together handling conflicts, and create variant based component styles. Inspired by [shadcn/ui](https://ui.shadcn.com/)
 
 ## Quality of Life
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm) A `MakeWriter` implementation to allow directly using `tracing_subscriber` in the browser or with NodeJS to allow for beautiful `tracing` integration into Leptos apps.
@@ -52,9 +53,9 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ## Libraries
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app development easier. (Like react-use, vue-use, etc.)
-- [leptos_query](https://github.com/nicoburniske/leptos_query) Asynchronous cache for data fetching and state management
+- [leptos_query](https://github.com/gaucho-labs/leptos-query) Async cache for data fetching and state management
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for Leptos
-- [leptos_image](https://github.com/nicoburniske/leptos_image) Optimize static images with leptos (similar to NextJS `<Image/>`). It converts images to .webp format, and generates Low Quality Image Placeholders (LQIP) included in your initial SSR render.
+- [leptos_image](https://github.com/gaucho-labs/leptos-image) Image optimizer that converts images to .webp format, and generates Low Quality Image Placeholders  to include in your initial SSR render
 - [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) Declarative control-flow components
 - [leptos-tracked](https://docs.rs/leptos-tracked/latest/leptos_tracked/) Utility traits for composing Leptos signals with fewer nested closures
 - [leptos-signals](https://github.com/akesson/leptos-signals) Additional primitives for working with signals
@@ -73,7 +74,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [cinnog](https://github.com/NiklasEi/cinnog) Experimental static site generator using Bevy ECS as a data layer
 - [leptoaster](https://github.com/KiaShakiba/leptoaster) A minimal toast library for Leptos.
 - [leptos_toaster](https://github.com/SorenHolstHansen/leptos_toaster) A Toaster component for Leptos heavily inspired by [Sonner](https://github.com/emilkowalski/sonner)
-- [leptos-hotkeys](https://github.com/friendlymatthew/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
+- [leptos-hotkeys](https://github.com/gaucho-labs/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
