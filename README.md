@@ -74,7 +74,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [cinnog](https://github.com/NiklasEi/cinnog) Experimental static site generator using Bevy ECS as a data layer
 - [leptoaster](https://github.com/KiaShakiba/leptoaster) A minimal toast library for Leptos.
 - [leptos_toaster](https://github.com/SorenHolstHansen/leptos_toaster) A Toaster component for Leptos heavily inspired by [Sonner](https://github.com/emilkowalski/sonner)
-- [leptos-hotkeys](https://github.com/friendlymatthew/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
+- [leptos-hotkeys](https://github.com/gaucho-labs/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
