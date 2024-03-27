@@ -78,6 +78,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
+- [benw.is](http://benw.is) benwis's personal blog, built with Leptos SSR, storage in Sqlite, and compiled to Spin!
 - [Itehax's blog](https://itehax.com) Markdown blog written using Leptos(with server side rendering) and styled using Preline (component library for tailwindcss) ([source](https://github.com/itehax/rust-blog))
 - [LeVuMinhHuy's blog](https://github.com/LeVuMinhHuy/blog) A simple markdown to html blog
 - [viz.rs](https://viz.rs/) The documentation site for Viz web framework
