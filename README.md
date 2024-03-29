@@ -75,6 +75,7 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [leptoaster](https://github.com/KiaShakiba/leptoaster) A minimal toast library for Leptos.
 - [leptos_toaster](https://github.com/SorenHolstHansen/leptos_toaster) A Toaster component for Leptos heavily inspired by [Sonner](https://github.com/emilkowalski/sonner)
 - [leptos-hotkeys](https://github.com/gaucho-labs/leptos-hotkeys) Declaratively create and pair keybindings with callbacks for Leptos applications.
+- [leptos-chartistry](https://github.com/feral-dot-io/leptos-chartistry) Chartistry is an extensible charting library for Leptos with many [examples](https://feral-dot-io.github.io/leptos-chartistry/examples.html). It provides a simple and easy to use <Chart> component.
 
 ## Blogs / Websites
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with Leptos (of course.)
