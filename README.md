@@ -30,6 +30,8 @@ A collection of awesome libraries in the Leptos ecosystem.
 
 - [leptos-fullstack](https://github.com/srid/leptos-fullstack) - A [Nix](https://nixos.org/) template for full-stack web apps in Rust using Leptos + Tailwind
 
+- [leptos-workers](https://github.com/BrandonDyer64/leptos-workers) - Starter template for use with Leptos in [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+
 ## Styling and Design
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS extracted from Leptos components
 - [Styled](https://github.com/eboody/styled) Scoped CSS styles
