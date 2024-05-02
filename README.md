@@ -91,3 +91,4 @@ A collection of awesome libraries in the Leptos ecosystem.
 - [rustytube.rs](https://rustytube.rs) Youtube client for desktop & web. Built with Leptos and Tauri; designed with Tailwind and DaisyUI. ([repo & binaries](https://github.com/opensourcecheemsburgers/RustyTube))
 - [jlewis.sh](https://jlewis.sh/) Personal blog
 - [joeymckenzie.tech](https://joeymckenzie.tech/) Markdown blog using Leptos, DaisyUI, and Shiki for code highlighting ([source](https://github.com/JoeyMckenzie/joeymckenzie.tech))
+- [moturbo.com](https://moturbo.com/) Shop for motorcycle parts, built with Leptos.
