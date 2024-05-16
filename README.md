@@ -180,3 +180,5 @@ full-stack web applications using Rust.
 - [moturbo.com](https://moturbo.com/) Shop for motorcycle parts, built with
   Leptos.
 - [utils.surge.sh](https://utils.surge.sh) Utils Homepage and dashboard, Utils(utilities) is a set of CLI tools to Transform developer experience, boost productivity, and elevate the quality of your projects. Built with Leptos CSR + Tailwind + [Remix Icon](https://remixicon.com) and [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [s1n7ax.com](https://s1n7ax.com/) Portfolio using Leptos SSR + Tailwind ([github](https://github.com/s1n7ax/my-website))
+
