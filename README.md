@@ -68,6 +68,7 @@ full-stack web applications using Rust.
 - [Leptos Remix Icon](https://crates.io/crates/leptos-remix-icon) A wrapper
   around [Remix Icon](https://remixicon.com/)
 
+
 ## Quality of Life
 
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm)
@@ -181,8 +182,6 @@ full-stack web applications using Rust.
   ([source](https://github.com/JoeyMckenzie/joeymckenzie.tech))
 - [moturbo.com](https://moturbo.com/) Shop for motorcycle parts, built with
   Leptos.
-- [utils.surge.sh](https://utils.surge.sh) Utils Homepage and dashboard,
-  Utils(utilities) is a set of CLI tools to Transform developer experience,
-  boost productivity, and elevate the quality of your projects. Built with
-  Leptos CSR + Tailwind + [Remix Icon](https://remixicon.com) and
-  [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [utils.surge.sh](https://utils.surge.sh) Utils Homepage and dashboard, Utils(utilities) is a set of CLI tools to Transform developer experience, boost productivity, and elevate the quality of your projects. Built with Leptos CSR + Tailwind + [Remix Icon](https://remixicon.com) and [Animate On Scroll Library](https://michalsnik.github.io/aos/)
+- [s1n7ax.com](https://s1n7ax.com/) Portfolio using Leptos SSR + Tailwind ([github](https://github.com/s1n7ax/my-website))
+
