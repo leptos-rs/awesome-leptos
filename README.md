@@ -65,6 +65,9 @@ full-stack web applications using Rust.
 - [Tailwind Fuse](https://github.com/gaucho-labs/tailwind-fuse) Fuse Tailwind
   CSS class together handling conflicts, and create variant based component
   styles. Inspired by [shadcn/ui](https://ui.shadcn.com/)
+- [Leptos Remix Icon](https://crates.io/crates/leptos-remix-icon) A wrapper
+  around [Remix Icon](https://remixicon.com/)
+
 
 ## Quality of Life
 
