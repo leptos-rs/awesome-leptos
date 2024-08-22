@@ -96,6 +96,7 @@ full-stack web applications using Rust.
   Easily create powerful tables from structs.
 - [leptix](https://github.com/leptix/leptix) Accessible and unstyled components
   for Leptos.
+- [leptos-material](https://github.com/jordi-star/leptos-material) A leptos component wrapper for [Material Web Components](https://material-web.dev/), along with some extra components to fill in the gaps.
 
 ## Libraries
 
