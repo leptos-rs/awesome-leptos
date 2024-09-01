@@ -155,6 +155,8 @@ full-stack web applications using Rust.
   Chartistry is an extensible charting library for Leptos with many
   [examples](https://feral-dot-io.github.io/leptos-chartistry/examples.html). It
   provides a simple and easy to use `<Chart>` component.
+- [floating-ui-leptos](https://floating-ui.rustforweb.org/) Leptos port of Floating UI,
+  a library that helps you create “floating” elements such as tooltips, popovers, dropdowns, and more.
 
 ## Blogs / Websites
 
