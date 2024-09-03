@@ -188,3 +188,5 @@ full-stack web applications using Rust.
 - [utils.surge.sh](https://utils.surge.sh) Utils Homepage and dashboard, Utils(utilities) is a set of CLI tools to Transform developer experience, boost productivity, and elevate the quality of your projects. Built with Leptos CSR + Tailwind + [Remix Icon](https://remixicon.com) and [Animate On Scroll Library](https://michalsnik.github.io/aos/)
 - [s1n7ax.com](https://s1n7ax.com/) Portfolio using Leptos SSR + Tailwind ([github](https://github.com/s1n7ax/my-website))
 - [Taglinq](https://taglinq.com/) Treehole application with some unique features, built with Leptos and Supabase.
+- [TryRust](https://tryrust.org/) Little Rust playground like TryHaskell or TryClojure. Built with Leptos + Tailwind + Tokio/Axum. ([github](https://github.com/rust-dd/tryrust.org))
+- [Rust-DD Blog Engine](https://rust-dd.com) A Blog engine written in Rust, using Leptos SSR + Tailwind, SurrealDB, Dufs and Tokio/Axum. ([github](https://github.com/rust-dd/blog))
