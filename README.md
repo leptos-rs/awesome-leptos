@@ -86,7 +86,7 @@ full-stack web applications using Rust.
 
 ## Components
 
-- [Leptonic](https://leptonic.dev/) A rich component library for Leptos.
+- [Leptonic](https://github.com/lpotthast/leptonic) A rich component library for Leptos.
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component
   library.
 - [leptos_animated_for](https://github.com/brofrain/leptos-animated-for) A
