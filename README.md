@@ -127,7 +127,7 @@ full-stack web applications using Rust.
   signals kept in sync with the server through websockets.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals
   synced through Server-Sent-Events (SSE).
-  [leptos_ws](https://github.com/TimTom2016/leptos_ws) Leptos WS is a Websocket Library to support updates coordinated
+- [leptos_ws](https://github.com/TimTom2016/leptos_ws) Leptos WS is a Websocket Library to support updates coordinated
   from the Server 
 - [leptos_i18n](https://github.com/Baptistemontan/leptos_i18n) A translation
   library for Leptos.
