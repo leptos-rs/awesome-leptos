@@ -161,6 +161,7 @@ full-stack web applications using Rust.
   provides a simple and easy to use `<Chart>` component.
 - [floating-ui-leptos](https://floating-ui.rustforweb.org/) Leptos port of Floating UI,
   a library that helps you create “floating” elements such as tooltips, popovers, dropdowns, and more.
+- [leptos_drag_reorder](https://github.com/tqwewe/leptos_drag_reorder) Leptos hook for draggable panels which can be rearranged.
 
 ## Blogs / Websites
 
