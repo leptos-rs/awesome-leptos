@@ -70,7 +70,6 @@ full-stack web applications using Rust.
 - [Leptos Remix Icon](https://crates.io/crates/leptos-remix-icon) A wrapper
   around [Remix Icon](https://remixicon.com/)
 
-
 ## Quality of Life
 
 - [`tracing-subscriber-wasm`](https://crates.io/crates/tracing-subscriber-wasm)
@@ -128,7 +127,7 @@ full-stack web applications using Rust.
 - [leptos_sse](https://github.com/messense/leptos_sse) Leptos server signals
   synced through Server-Sent-Events (SSE).
 - [leptos_ws](https://github.com/TimTom2016/leptos_ws) Leptos WS is a Websocket Library to support updates coordinated
-  from the Server 
+  from the Server
 - [leptos_i18n](https://github.com/Baptistemontan/leptos_i18n) A translation
   library for Leptos.
 - [leptos-fluent](https://github.com/mondeja/leptos-fluent) Internationalization
@@ -165,6 +164,7 @@ full-stack web applications using Rust.
 
 ## Blogs / Websites
 
+- [Axons Talent](https://axonstalent.com) The official website of Axons Talent, a global technology recruitment company.
 - [leptos.dev](https://leptos.dev) The official Leptos website, built with
   Leptos (of course.)
 - [benw.is](http://benw.is) benwis's personal blog, built with Leptos SSR,
