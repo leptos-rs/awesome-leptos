@@ -98,6 +98,10 @@ full-stack web applications using Rust.
 - [leptix](https://github.com/leptix/leptix) Accessible and unstyled components
   for Leptos.
 - [leptos-material](https://github.com/jordi-star/leptos-material) A leptos component wrapper for [Material Web Components](https://material-web.dev/), along with some extra components to fill in the gaps.
+- [Rust Radix](https://radix.rustforweb.org) Leptos port of Radix,
+  a library of components, icons, colors, and templates for building high-quality, accessible UI.
+- [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) Leptos port of shadcn/ui,
+  a library of beautifully designed components that you can copy and paste into your apps.
 
 ## Libraries
 
@@ -158,9 +162,11 @@ full-stack web applications using Rust.
   Chartistry is an extensible charting library for Leptos with many
   [examples](https://feral-dot-io.github.io/leptos-chartistry/examples.html). It
   provides a simple and easy to use `<Chart>` component.
-- [floating-ui-leptos](https://floating-ui.rustforweb.org/) Leptos port of Floating UI,
-  a library that helps you create “floating” elements such as tooltips, popovers, dropdowns, and more.
 - [leptos_drag_reorder](https://github.com/tqwewe/leptos_drag_reorder) Leptos hook for draggable panels which can be rearranged.
+- [Rust Floating UI](https://floating-ui.rustforweb.org/) Leptos port of Floating UI,
+  a library that helps you create “floating” elements such as tooltips, popovers, dropdowns, and more.
+- [Rust Lucide](https://lucide.rustforweb.org/) Leptos port of Lucide,
+  a beautiful & consistent icon toolkit made by the community.
 
 ## Blogs / Websites
 
