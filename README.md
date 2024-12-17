@@ -202,3 +202,4 @@ full-stack web applications using Rust.
 - [TryRust](https://tryrust.org/) Little Rust playground like TryHaskell or TryClojure. Built with Leptos + Tailwind + Tokio/Axum. ([github](https://github.com/rust-dd/tryrust.org))
 - [Rust-DD Blog Engine](https://rust-dd.com) A Blog engine written in Rust, using Leptos SSR + Tailwind, SurrealDB, Dufs and Tokio/Axum. ([github](https://github.com/rust-dd/blog))
 - [Ever blog](https://www.everdev.it/) Blog, built with Leptos SSR (Axum) + TailwindCSS, storage in RedisDB, email sender with SMTP to feedback feature.
+- [Ibis](https://ibis.wiki) Federated encyclopedia based on ActivityPub protocol, uses Leptos, Axum, Diesel and Tailwind. Open source under AGLP and available for selfhosting 
