@@ -167,9 +167,8 @@ full-stack web applications using Rust.
   a library that helps you create “floating” elements such as tooltips, popovers, dropdowns, and more.
 - [Rust Lucide](https://lucide.rustforweb.org/) Leptos port of Lucide,
   a beautiful & consistent icon toolkit made by the community.
-- [leptos_async_signal](https://github.com/demiurg-dev/leptos_async_signal) Extends a signal so that read side ascts as a
-    resource that becomes ready when a value is written. Useful for generating SSR elements that depend on a value
-    generated after its definition (similar to `leptos_meta`).
+- [leptos_async_signal](https://github.com/demiurg-dev/leptos_async_signal)
+  Async signal for SSR generation (generalization of `leptos_meta`).
 
 ## Blogs / Websites
 
