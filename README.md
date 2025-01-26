@@ -17,6 +17,7 @@ full-stack web applications using Rust.
 - [leptosfmt](https://github.com/bram209/leptosfmt) provides formatting for the
   `view` macro
 - [leptos-fmt vscode plugin](https://github.com/codeitlikemiley/leptos-fmt) - autoformat your code with leptosfmt
+- [leptosfmt-action](https://github.com/LesnyRumcajs/leptosfmt-action) - Github Action for the [leptosfmt](https://github.com/bram209/leptosfmt) to facilitate embedding it in CI
 - [cargo-runner vscode plugin](https://github.com/codeitlikemiley/cargo-runner) - vscode plugin that makes it easy to do cargo run|build|test|bench and debug , for guide on how to use cargo-runner with leptos [click here](https://github.com/codeitlikemiley/book/blob/main/src/getting_started/leptos_dx.md#5-add-cargo-runner-vscode-plugin-optional)
 
 ## Starter Templates
