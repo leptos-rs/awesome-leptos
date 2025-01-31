@@ -207,3 +207,4 @@ full-stack web applications using Rust.
 - [Ever blog](https://www.everdev.it/) Blog, built with Leptos SSR (Axum) + TailwindCSS, storage in RedisDB, email sender with SMTP to feedback feature.
 - [Ibis](https://ibis.wiki) Federated encyclopedia based on ActivityPub protocol, uses Leptos, Axum, Diesel and Tailwind. Open source under AGPL and available for selfhosting
 - [Owdle](https://owdle.guessing.day/) Daily guessing game with Overwatch heroes. Built with Leptos CSR.
+- [simpleicons.org](https://simpleicons.org) The website for [Simple Icons](https://github.com/simple-icons/simple-icons). Built with Leptos CSR + TailwindCSS ([github](https://github.com/simple-icons/simple-icons-website-rs))
