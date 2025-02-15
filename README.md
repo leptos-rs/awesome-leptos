@@ -110,6 +110,7 @@ full-stack web applications using Rust.
   development easier. (Like react-use, vue-use, etc.)
 - [leptos_query](https://github.com/gaucho-labs/leptos-query) Async cache for
   data fetching and state management
+- [lepticons](https://lepticons.9bits.cc/) An icon library for Leptos with live demo
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for
   Leptos
 - [leptos_image](https://github.com/gaucho-labs/leptos-image) Image optimizer
