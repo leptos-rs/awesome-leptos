@@ -107,7 +107,7 @@ full-stack web applications using Rust.
 
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app
   development easier. (Like react-use, vue-use, etc.)
-- [leptos_query](https://github.com/gaucho-labs/leptos-query) Async cache for
+- [leptos-fetch](https://github.com/zakstucke/leptos-fetch) Async cache for
   data fetching and state management
 - [lepticons](https://lepticons.9bits.cc/) An icon library for Leptos with live demo
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for
