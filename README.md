@@ -90,9 +90,6 @@ full-stack web applications using Rust.
 
 - [Thaw](https://github.com/thaw-ui/thaw) An easy to use leptos component
   library.
-- [leptos_animated_for](https://github.com/brofrain/leptos-animated-for) A
-  [For](https://docs.rs/leptos/latest/leptos/fn.For.html)-like component
-  designed for animating elements of a list.
 - [leptos-struct-table](https://github.com/Synphonyte/leptos-struct-table)
   Easily create powerful tables from structs.
 - [leptix](https://github.com/leptix/leptix) Accessible and unstyled components
@@ -170,6 +167,7 @@ full-stack web applications using Rust.
   a beautiful & consistent icon toolkit made by the community.
 - [leptos_async_signal](https://github.com/demiurg-dev/leptos_async_signal)
   Async signal for SSR generation (generalization of `leptos_meta`).
+- [leptos_animate](https://github.com/brofrain/leptos-animate) A bunch of utilities for animating elements with ease. FLIP and CSS in/out transitions included.
 
 ## Blogs / Websites
 
