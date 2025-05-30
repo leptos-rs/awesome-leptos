@@ -170,6 +170,7 @@ full-stack web applications using Rust.
 - [leptos_async_signal](https://github.com/demiurg-dev/leptos_async_signal)
   Async signal for SSR generation (generalization of `leptos_meta`).
 - [leptos_animate](https://github.com/brofrain/leptos-animate) A bunch of utilities for animating elements with ease. FLIP and CSS in/out transitions included.
+- [leptos-unique-ids](https://github.com/mondeja/leptos-unique-ids) Ensure globally unique DOM identifiers across a Leptos application.
 
 ## Blogs / Websites
 
