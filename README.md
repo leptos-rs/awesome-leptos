@@ -56,7 +56,7 @@ full-stack web applications using Rust.
   template for use with Leptos in
   [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 
-- [codeitlikemiley/tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) - ⚡ Tauri + Leptos SSR starter template , Build native desktop apps with server-side rendering, all in Rust.
+- [tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) - ⚡ Tauri + Leptos SSR starter template , Build native desktop apps with server-side rendering, all in Rust.
 
 ## Styling and Design
 
