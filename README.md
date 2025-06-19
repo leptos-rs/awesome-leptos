@@ -18,7 +18,7 @@ full-stack web applications using Rust.
   `view` macro
 - [leptos-fmt vscode plugin](https://github.com/codeitlikemiley/leptos-fmt) - autoformat your code with leptosfmt
 - [leptosfmt-action](https://github.com/LesnyRumcajs/leptosfmt-action) - Github Action for the [leptosfmt](https://github.com/bram209/leptosfmt) to facilitate embedding it in CI
-- [cargo-runner vscode plugin](https://github.com/codeitlikemiley/cargo-runner) - vscode plugin that makes it easy to do cargo run|build|test|bench and debug , for guide on how to use cargo-runner with leptos [click here](https://github.com/codeitlikemiley/book/blob/main/src/getting_started/leptos_dx.md#5-add-cargo-runner-vscode-plugin-optional)
+- [cargo-runner vscode plugin](https://github.com/codeitlikemiley/cargo-runner) - Yet Another Command Runner but specifically for your Rust Project, Just press <kbd>CMD + R</kbd> and it would run the correct command depending on your cursor context it can do cargo run, cargo test and doctest , cargo build and even debug. If you need to override command to add other options you can press <kbd>CMD+SHIFT+R</kbd> ,for more info check [readme](https://github.com/codeitlikemiley/cargo-runner).
 - [vscode-leptos-snippets](https://github.com/mondeja/vscode-leptos-snippets) - Useful code snippets for Leptos development in VSCode.
 
 
@@ -55,6 +55,8 @@ full-stack web applications using Rust.
 - [leptos-workers](https://github.com/BrandonDyer64/leptos-workers) - Starter
   template for use with Leptos in
   [Cloudflare Workers](https://developers.cloudflare.com/workers/)
+
+- [tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) - ⚡ Tauri + Leptos SSR starter template , Build native desktop apps with server-side rendering, all in Rust.
 
 ## Styling and Design
 
