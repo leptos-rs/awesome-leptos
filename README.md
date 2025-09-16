@@ -213,3 +213,5 @@ full-stack web applications using Rust.
 - [simpleicons.org](https://simpleicons.org) The website for [Simple Icons](https://github.com/simple-icons/simple-icons). Built with Leptos CSR + TailwindCSS ([github](https://github.com/simple-icons/simple-icons-website-rs))
 - [osynic-osuapi.deno.dev](https://osynic-osuapi.deno.dev/) Beautiful, modern [OsynicOsuapi](https://github.com/osynicite/osynic_osuapi) demo website. Deployed on Deno Deploy. Built with Leptos CSR + TailwindCSS + Lucide Leptos + Leptos Fluent + Osynic Osuapi ([github](https://github.com/islatri/leptos_osuapi_playground))
 - [SQLite Playground](https://sqlight.dev) A SQLite Playground that runs completely locally. Built with Leptos CSR. ([github](https://github.com/Spxg/sqlight))
+- [ccf-deadlines](https://ccfddl.com) Collaboratively track worldwide conference deadlines. Built with Leptos CSR and thaw-ui. ([github](https://github.com/ccfddl/ccf-deadlines))
+
