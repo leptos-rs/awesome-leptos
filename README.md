@@ -103,6 +103,8 @@ full-stack web applications using Rust.
   a library of components, icons, colors, and templates for building high-quality, accessible UI.
 - [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) Leptos port of shadcn/ui,
   a library of beautifully designed components that you can copy and paste into your apps.
+- [Leptodon](https://github.com/openanalytics/leptodon) Your Leptos UI toolkit,
+  a [flowbite](https://flowbite.com/) inspired component library.
 
 ## Libraries
 
