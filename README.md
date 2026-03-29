@@ -99,8 +99,6 @@ full-stack web applications using Rust.
 - [leptix](https://github.com/leptix/leptix) Accessible and unstyled components
   for Leptos.
 - [leptos-material](https://github.com/jordi-star/leptos-material) A leptos component wrapper for [Material Web Components](https://material-web.dev/), along with some extra components to fill in the gaps.
-- [Rust Radix](https://radix.rustforweb.org) Leptos port of Radix,
-  a library of components, icons, colors, and templates for building high-quality, accessible UI.
 - [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) Leptos port of shadcn/ui,
   a library of beautifully designed components that you can copy and paste into your apps.
 - [Leptodon](https://github.com/openanalytics/leptodon) Your Leptos UI toolkit,
