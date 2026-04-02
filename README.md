@@ -103,8 +103,7 @@ full-stack web applications using Rust.
   a library of beautifully designed components that you can copy and paste into your apps.
 - [Leptodon](https://github.com/openanalytics/leptodon) Your Leptos UI toolkit,
   a [flowbite](https://flowbite.com/) inspired component library.
-
-## Libraries
+- [Rust/UI](https://github.com/rust-ui/ui) Inspired by shadcn/ui, built for Rust fullstack apps. A component registry for Leptos — built with Tailwind CSS, copy-paste ready. 
 
 - [leptos-use](https://leptos-use.rs/) Reactive primitives to make app
   development easier. (Like react-use, vue-use, etc.)
