@@ -109,7 +109,7 @@ full-stack web applications using Rust.
   development easier. (Like react-use, vue-use, etc.)
 - [leptos-fetch](https://github.com/zakstucke/leptos-fetch) Async cache for
   data fetching and state management
-- [lepticons](https://lepticons.9bits.cc/) An icon library for Leptos with live demo
+- [lepticons](https://github.com/eugener/lepticons) Lucide icon toolkit for Leptos -- searchable picker, stroke draw-in animations, and category-based tree-shaking. [Live demo](https://lepticons.vercel.app)
 - [leptos-icons](https://github.com/Carlosted/leptos-icons) An icon library for
   Leptos
 - [leptos_image](https://github.com/gaucho-labs/leptos-image) Image optimizer
