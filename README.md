@@ -58,6 +58,10 @@ full-stack web applications using Rust.
 
 - [tauri-leptos-ssr](https://github.com/codeitlikemiley/tauri-leptos-ssr) - ⚡ Tauri + Leptos SSR starter template , Build native desktop apps with server-side rendering, all in Rust.
 
+## Agents and Skills
+
+- [Leptos Coder/(https://github.com/andreclaudino/leptos-coder/tree/main) An Agent Skill for creating, translating, and testing Leptos web components and applications.
+
 ## Styling and Design
 
 - [Stylers](https://github.com/abishekatp/stylers) Compile-time scoped CSS
