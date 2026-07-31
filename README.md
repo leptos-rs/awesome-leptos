@@ -223,3 +223,4 @@ full-stack web applications using Rust.
 - [ccf-deadlines](https://ccfddl.com) Collaboratively track worldwide conference deadlines. Built with Leptos CSR and thaw-ui. ([github](https://github.com/ccfddl/ccf-deadlines))
 - [goldcoders.dev](https://goldcoders.dev) - Professional system automation and software engineering. Built with Leptos.
 - [loki4agent.com](https://loki4agent.com) - Document system built with Leptos. For loki-auto(A stateless sandboxed browser automation runtime for AI Agents). (https://github.com/loki4agent/loki-docs) 
+- [Origa](https://origa.uwuwu.net/) — Learning Japanese App. Leptos + Tauri - IOS, Android, Web, Windows, MacOS. Native Russian, English, Korean, Vietnamese support. ONNX Offline-first ML features. [Github](https://github.com/yurvon-screamo/origa).
