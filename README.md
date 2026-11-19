@@ -226,3 +226,4 @@ full-stack web applications using Rust.
 - [Origa](https://origa.uwuwu.net/) — Learning Japanese App. Leptos + Tauri - IOS, Android, Web, Windows, MacOS. Native Russian, English, Korean, Vietnamese support. ONNX Offline-first ML features. [Github](https://github.com/yurvon-screamo/origa).
 - [rust-blog.github.io](https://rust-blog.github.io/) A production-grade blog built with Leptos (CSR) and Rust, deployed on GitHub Pages ([source](https://github.com/rust-blog/rust-blog.github.io)).
 - [codeframe](https://codeframe.rxdevman.com/) Convert source code into high-resolution PNG images. Built with Leptos CSR + Rust ([source](https://github.com/suradet-ps/codeframe)).
+- [Proof-Sheet](https://proof--sheet.vercel.app/) Client-side editorial Hacker News reader with a custom Canvas 2D drying ink effect. Built with Leptos CSR + Rust ([source](https://github.com/itsVrushal/Proof-Sheet)).
