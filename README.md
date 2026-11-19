@@ -12,6 +12,7 @@ full-stack web applications using Rust.
 
 ## Tools
 
+- [auric](https://auric.spa) is an Ember-inspired MVC SPA framework, leveraging Leptos for reactivity and routing
 - [cargo-leptos](https://github.com/leptos-rs/cargo-leptos) coordinates
   rebuilding the server and client side of your app
 - [leptosfmt](https://github.com/bram209/leptosfmt) provides formatting for the
